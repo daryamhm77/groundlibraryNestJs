@@ -1,0 +1,15 @@
+export enum EntityNames {
+  User = 'user',
+  Address = 'address',
+  Otp = 'otp',
+  Profile = 'profile',
+  Owner = 'owner',
+  OwnerOtp = 'ownerOtp',
+  Libraries = 'libraries',
+  Books = 'books',
+  Discount = 'discount',
+  Basket = 'basket',
+  Order = 'order',
+  OrderItems = 'orderItems',
+  Payment = 'payment',
+}
